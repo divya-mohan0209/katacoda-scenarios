@@ -27,8 +27,7 @@
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "code": "npm i -g http-server assemblyscript"
+      "text": "intro.md"
     },
     "finish": {
       "text": "finish.md"
