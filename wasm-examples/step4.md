@@ -1,6 +1,6 @@
 Create index.html in the same directory and enter the following code,
 
-```
+```code
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,5 +10,4 @@ Create index.html in the same directory and enter the following code,
 </head>
 <body></body>
 </html>
-
 ```
