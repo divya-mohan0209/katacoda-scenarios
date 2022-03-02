@@ -1,0 +1,1 @@
+Welcome, enter `kubectl get nodes` to know we're all set up!

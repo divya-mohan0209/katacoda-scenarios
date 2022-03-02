@@ -1,0 +1,1 @@
+That's it, we've set up Kubewarden! On to our next adventure :)
