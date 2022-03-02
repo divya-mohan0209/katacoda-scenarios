@@ -1,6 +1,6 @@
 Create addition.js in the same folder by entering the below code snippet,
 
-```code
+```js
 export const wasmBrowserInstantiate = async (wasmModuleUrl, importObject) => {
   let response = undefined;
 
