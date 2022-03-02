@@ -1,10 +1,5 @@
-Create a file addition.js by entering the code snippet below,
+Clone the Git Repo
 
 ```
-//Sample code for addition
-//Takes in two i32 values
-//Returns their sum
-export function add(a: i32, b: i32): i32 {
-return a + b;
-}
+git clone https://github.com/divya-mohan0209/webassembly-blog-examples.git
 ```
