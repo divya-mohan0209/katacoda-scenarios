@@ -35,6 +35,7 @@
   },
   "environment": {"uilayout": "terminal-iframe-split"},
   "backend": {
-    "imageid": "ubuntu:2004"
+    "imageid": "ubuntu:2004",
+    "port": 80
   }
 }
