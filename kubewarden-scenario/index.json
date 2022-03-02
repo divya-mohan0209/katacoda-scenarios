@@ -27,7 +27,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "code": "install-kubernetes.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -35,6 +36,6 @@
   },
   "environment": {"uilayout": "terminal"},
   "backend": {
-    "imageid": "kubernetes-cluster"
+    "imageid": "ubuntu:2004"
   }
 }
